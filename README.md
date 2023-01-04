@@ -1,6 +1,4 @@
-This repository contains the source code and images used for some Medium articles that I wrote: 
-
-
+# Articles:
 
 **5 cool Python tricks to make your life easier**
 
