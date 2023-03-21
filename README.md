@@ -1,5 +1,9 @@
 # Articles:
 
+**Overcoming Web Scraping Challenges**
+
+https://medium.com/@felipe.mezzarana/overcoming-web-scraping-challenges-f8b59ae3c551
+
 **5 cool Python tricks to make your life easier**
 
 https://medium.com/@felipe.mezzarana/5-cool-python-tricks-to-make-your-life-easier-8086972e7435
