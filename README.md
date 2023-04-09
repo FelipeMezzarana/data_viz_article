@@ -1,5 +1,9 @@
 # Articles:
 
+**Python + Excel - Generating Highly Customized Reports**
+
+https://medium.com/@felipe.mezzarana/python-excel-generating-highly-customized-reports-edd3b2b8ae67
+
 **Overcoming Web Scraping Challenges**
 
 https://medium.com/@felipe.mezzarana/overcoming-web-scraping-challenges-f8b59ae3c551
